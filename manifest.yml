@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Aelous
+   random-route: true
+   memory: 128M
